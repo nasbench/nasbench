@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=SEDR-Internals&theme=dark)](https://github.com/nasbench/SEDR-Internals)
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=sedr-localdatastore-parser&theme=dark)](https://github.com/nasbench/sedr-localdatastore-parser)
+
 ## Current Projects
 
 ### Infosec Blog
