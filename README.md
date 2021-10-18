@@ -36,6 +36,18 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=sedr-localdatastore-parser&theme=dark)](https://github.com/nasbench/sedr-localdatastore-parser)
 
+## Notable Contributions
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LOLBAS-Project&repo=LOLBAS&theme=dark)](https://github.com/LOLBAS-Project/LOLBAS)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=OTRF&repo=OSSEM-DD&theme=dark)](https://github.com/OTRF/OSSEM-DD)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Digital-Forensics-Discord-Server&repo=LawEnforcementResources&theme=dark)](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=stuhli&repo=awesome-event-ids&theme=dark)](https://github.com/stuhli/awesome-event-ids)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=dfirtips&repo=winprocs.dfir.tips&theme=dark)](https://github.com/dfirtips/winprocs.dfir.tips)
+
 ## Current Projects
 
 ### Infosec Blog
