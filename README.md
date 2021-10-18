@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 ### Infosec Blog
 
-I write a blog on medium about **Detection, DFIR, Windows Internals, Malware** and much more [here](https://nasbench.medium.com/)!
+I write a blog on medium about **Detection, DFIR, Windows Internals, Malware** and much more [**Here**](https://nasbench.medium.com/)!
 
 ### PenTest Magazine Reviewer
 
-I'm currently a reviewer for the [PenTest Magazine](https://pentestmag.com/). I review and give feedback on different blogs before they get published.
+I'm currently a reviewer for the [**PenTest Magazine**](https://pentestmag.com/). I review and give feedback on different blogs before they get published.
