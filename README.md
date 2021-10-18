@@ -1,4 +1,4 @@
-### Hi there 👋 Thanks For Stopping By 😊
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Thanks For Stopping By 😊
 
 <!--
 **nasbench/nasbench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ## What's Going On
 
-- 🔭 I’m currently working on my [Blog](https://nasbench.medium.com/)
+- 🔭 I’m currently researching and working on my [**Blog**](https://nasbench.medium.com/)
 - 🌱 I’m currently learning and reading about **Windows Internals**
 - 👯 I’m looking to collaborate on anything related to **Detection Engineering, DIFR and Malware Analysis**
-- 📫 If you wanna reach out and discuss stuff. I'm on [Twitter](https://twitter.com/nas_bench)
+- 📫 If you wanna reach out and discuss stuff. I'm on [**Twitter**](https://twitter.com/nas_bench)
 
 ## Notable GitHub Repositories 
 
