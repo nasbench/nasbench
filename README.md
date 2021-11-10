@@ -28,17 +28,13 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=MindMaps&theme=dark)](https://github.com/nasbench/MindMaps)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=SIGMA-Resources&theme=dark)](https://github.com/nasbench/SIGMA-Resources)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=EVTX-ETW-Resources&theme=dark)](https://github.com/nasbench/EVTX-ETW-Resources)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=ETW-Resources&theme=dark)](https://github.com/nasbench/ETW-Resources)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=SIGMA-Resources&theme=dark)](https://github.com/nasbench/SIGMA-Resources)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=SEDR-Internals&theme=dark)](https://github.com/nasbench/SEDR-Internals)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=sedr-localdatastore-parser&theme=dark)](https://github.com/nasbench/sedr-localdatastore-parser)
-
-## Notable Contributions
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LOLBAS-Project&repo=LOLBAS&theme=dark)](https://github.com/LOLBAS-Project/LOLBAS)
+## Notable Github Contributions
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=OTRF&repo=OSSEM-DD&theme=dark)](https://github.com/OTRF/OSSEM-DD)
 
@@ -46,7 +42,11 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=stuhli&repo=awesome-event-ids&theme=dark)](https://github.com/stuhli/awesome-event-ids)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dfirtips&repo=winprocs.dfir.tips&theme=dark)](https://github.com/dfirtips/winprocs.dfir.tips)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=LOLBAS-Project&repo=LOLBAS&theme=dark)](https://github.com/LOLBAS-Project/LOLBAS)
+
+## Other Contributions
+
+- [C2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
 
 ## Current Projects
 
@@ -56,4 +56,4 @@ I write a blog on medium about **Detection, DFIR, Windows Internals, Malware** a
 
 ### PenTest Magazine Reviewer
 
-I'm currently a reviewer for the [**PenTest Magazine**](https://pentestmag.com/). I review and give feedback on different blogs before they get published.
+I'm currently a reviewer for the [**PenTest Magazine**](https://pentestmag.com/). I review and give feedback on different blogs/articles before they get published.
