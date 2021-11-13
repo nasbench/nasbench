@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything related to **Detection Engineering, DIFR and Malware Analysis**
 - 📫 If you wanna reach out and discuss stuff. I'm on [**Twitter**](https://twitter.com/nas_bench)
 
-## Notable GitHub Repositories 
+## Notable GitHub Repositories
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=MindMaps&theme=dark)](https://github.com/nasbench/MindMaps)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=3CORESec&repo=MAL-CL&theme=dark)](https://github.com/3CORESec/MAL-CL)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=EVTX-ETW-Resources&theme=dark)](https://github.com/nasbench/EVTX-ETW-Resources)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=MindMaps&theme=dark)](https://github.com/nasbench/MindMaps)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=SIGMA-Resources&theme=dark)](https://github.com/nasbench/SIGMA-Resources)
 
