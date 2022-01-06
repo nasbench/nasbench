@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## What's Going On
 
-- 🔭 I’m currently researching and working on my [**Blog**](https://nasbench.medium.com/)
-- 🌱 I’m currently learning and reading about **Windows Internals**
-- 👯 I’m looking to collaborate on anything related to **Detection Engineering, DIFR and Malware Analysis**
+- 🔭 I’m currently researching and working on my [**Blog**](https://nasbench.medium.com/) and other OSS projects. See list below.
+- 🌱 I’m currently learning and reading about **Windows Internals**, **Golang** and **.NET**
+- 👯 I’m looking to collaborate on anything related to **Windows Internals, Detection Engineering, DIFR and Malware Analysis**
 - 📫 If you wanna reach out and discuss stuff. I'm on [**Twitter**](https://twitter.com/nas_bench)
 
 ## Notable GitHub Repositories
