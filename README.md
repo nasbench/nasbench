@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## Notable GitHub Repositories
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=C2-Matrix-Indicators&theme=dark)](https://github.com/nasbench/C2-Matrix-Indicators)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=3CORESec&repo=MAL-CL&theme=dark)](https://github.com/3CORESec/MAL-CL)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=EVTX-ETW-Resources&theme=dark)](https://github.com/nasbench/EVTX-ETW-Resources)
