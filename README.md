@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Thanks For Stopping By 😊
+# Hi! Thanks For Stopping By 😊
 
 <!--
 **nasbench/nasbench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=nasbench&repo=SEDR-Internals&theme=dark)](https://github.com/nasbench/SEDR-Internals)
 
 ## Notable Github Contributions
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=SigmaHQ&repo=sigma&theme=dark)](https://github.com/SigmaHQ/sigma)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=OTRF&repo=OSSEM-DD&theme=dark)](https://github.com/OTRF/OSSEM-DD)
 
