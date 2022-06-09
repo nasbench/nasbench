@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=stuhli&repo=awesome-event-ids&theme=dark)](https://github.com/stuhli/awesome-event-ids)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=LOLBAS-Project&repo=LOLBAS&theme=dark)](https://github.com/LOLBAS-Project/LOLBAS)
-
 ## Other Contributions
 
 - [C2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
