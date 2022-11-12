@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - [SIGMA-Resources](https://github.com/nasbench/SIGMA-Resources)
 - [Information Security Mind Maps](https://github.com/nasbench/MindMaps)
 - [C2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
+<!--
 - [SANS "Windows Third-Party Apps Forensics Reference" Contributor](https://www.sans.org/posters/windows-third-party-apps-forensics-poster/)
 - [MITRE ATT&CK - T1547.014 - Boot or Logon Autostart Execution: Active Setup](https://attack.mitre.org/techniques/T1547/014/)
 - [F-Secure 2022 Hall Of Fame](https://www.f-secure.com/us-en/home/support/vulnerability-reward-program/hall-of-fame)
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 - [ZVE-2018-1886 - Reflected XSS in ManageEngine Application Manager (13 Build 13970) and prior](https://www.manageengine.com/products/applications_manager/issues.html#v13980)
 - [ZVE-2018-1870 - Stored XSS in ManageEngine Application Manager (13 Build 13970) and prior](https://www.manageengine.com/products/applications_manager/issues.html#v13980)
 - [ZVE-2018-1867 - Reflected XSS in ManageEngine Application Manager (13 Build 13980) and prior](https://www.manageengine.com/products/applications_manager/issues.html#v13990)
-
+-->
 ## Current Projects
 
 ### Infosec Research Blog
