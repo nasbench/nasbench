@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - [Information Security Mind Maps](https://github.com/nasbench/MindMaps)
 - [C2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
 
-## Current Projects
+## Other Projects
 
 ### Infosec Research Blog
 
@@ -44,3 +44,15 @@ I write a blog on medium about **Detection, DFIR, Windows Internals, Malware** a
 ### PenTest Magazine Reviewer
 
 I'm currently a reviewer for the [**PenTest Magazine**](https://pentestmag.com/). I review and give feedback on different blogs/articles before they get published.
+
+## Attributed CVEs
+
+| CVE | Description |
+|-----|-------------|
+| CVE-2019-19547 | [Unauthenticated XSS in the Symantec EDR (SEDR)](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Endpoint-Detection-and-Response-XSS/SYMSA1502) |
+| CVE-2020-5839  | [Information Disclosure In Symantec EDR (SEDR)](https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/security-advisories/SEDR-Information-Disclosure/SYMSA16090) |
+| CVE-2020-12593 | [Information Disclosure In Symantec EDR (SEDR)](https://support.broadcom.com/security-advisory/content/security-advisories/Symantec-Endpoint-Detection-Response-Security-Update/SYMSA16562) |
+| CVE-2021-44750 | [Arbitrary Code Execution in the WithSecure Support Tool](https://www.withsecure.com/it/support/security-advisories/cve-2021-44750) |
+| CVE-2022-1823 | [Improper privilege management vulnerability in McAfee Consumer Product Removal Tool](https://service.mcafee.com/?articleId=TS103318&page=shell&shell=article-view) |
+| CVE-2022-1824 | [An uncontrolled search path vulnerability in McAfee Consumer Product Removal Tool](https://service.mcafee.com/?articleId=TS103318&page=shell&shell=article-view) |
+| CVE-2022-37025 | [Improper privilege management vulnerability in McAfee Security Scan Plus (MSS+)](https://www.mcafee.com/support/?articleId=TS103335&page=shell&shell=article-view) |
