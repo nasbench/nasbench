@@ -20,18 +20,20 @@ Here are some ideas to get you started:
 ## What's Going On
 
 - 🔭 I’m currently researching and working on my [**Blog**](https://nasbench.medium.com/) and other OSS projects. See list below.
-- 🌱 I’m currently learning and reading about **Windows Internals**, **Golang** and **.NET**
+- 🌱 I’m currently learning, reading and sharpening my skills in **Windows Internals**, **Golang** and **.NET**
 - 👯 I’m looking to collaborate on anything related to **Windows Internals, Detection Engineering, DIFR and Malware Analysis**
 - 📫 If you wanna reach out and discuss stuff. I'm on [**Twitter**](https://twitter.com/nas_bench)
 
 ## Notable Contributions
 
 - [SIGMA - Generic Signature Format for SIEM Systems](https://github.com/SigmaHQ/sigma/commits?author=nasbench)
+- [SIGMA HQ Rule Management GUI](https://sigmahq.streamlit.app/)
 - [Malicious Command-Line (MAL-CL)](https://github.com/3CORESec/MAL-CL)
 - [EVTX-ETW-Resources](https://github.com/nasbench/EVTX-ETW-Resources/)
 - [LOLDrivers](https://github.com/magicsword-io/LOLDrivers)
 - [SEDR-Internals](https://github.com/nasbench/SEDR-Internals)
-- [SIGMA-Resources](https://github.com/nasbench/SIGMA-Resources)
+- [Sigconverter](https://github.com/magicsword-io/sigconverter.io)
+- [Misc-Research](https://github.com/nasbench/Misc-Research)
 - [Information Security Mind Maps](https://github.com/nasbench/MindMaps)
 - [C2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
 
